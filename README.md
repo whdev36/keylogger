@@ -75,7 +75,7 @@ This project uses the following Python libraries:
 3. View captured logs and manage data via the interface.
 
 ## License 📚
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](./LICENSE).
 
 ## Disclaimer ⚠️
 This project is intended for educational purposes only. The author is not responsible for any misuse or damages caused by this tool.
